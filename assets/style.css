@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f0f0f0;
+}
+h1,
+h2,
+h3 {
+  color: #242424;
+}
+img {
+  width: 200px;
+  height: auto;
+  margin-right: 10px;
+}
+.galeria img {
+  margin: 10px;
+  width: 150px;
+  height: auto;
+}
